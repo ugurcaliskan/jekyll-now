@@ -8,8 +8,8 @@ Data scientist, Engineer.
 
 ### More Information
 
-I am a Data scientist and engineer. 
-I hold a phd degree in engineering (Civil Engineering, hydraulic and water resources engineeering). I have a master degree in Civil engineering (Hydraulic and water resources engineering) and BS degree in Civil Engineering.
+I am a Data Scientist and Engineer. 
+I hold a PhD degree in engineering (Civil Engineering, Hydraulics and Water Resources Engineering). I have a master degree in Civil engineering (Hydraulics and Water Resources Engineering) and BS degree in Civil Engineering.
 
 ### Contact me
 
