@@ -41,7 +41,7 @@ In benchmark, they use an online advertising dataset released by Criteo Labs (wh
 
 Brief original benchmark results are below [2]:
 
-<img src="https://github.com/ugurcaliskan/ugurcaliskan.github.io/blob/master/images/Criteo-Terabyte-Click-Logs-Benchmark-FINAL.001-524x1024.jpeg" alt="Original Benchmark Results" width="40%" height="40%" />
+<img src="https://github.com/ugurcaliskan/ugurcaliskan.github.io/raw/master/images/Criteo-Terabyte-Click-Logs-Benchmark-FINAL.001-524x1024.jpeg" alt="Original Benchmark Results" width="40%" height="40%" />
 
 Please refer to the original blog post [2] for detailed benchmark results.
 
