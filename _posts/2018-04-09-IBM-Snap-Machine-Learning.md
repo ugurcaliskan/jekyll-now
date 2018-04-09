@@ -3,9 +3,7 @@ layout: post
 title: IBM Snap Machine Learning Library
 ---
 
-# Snap Machine Learning Library
-
-New kid on the block in the world of Machine Learning libraries. This time a team of researchers from IBM Research-Zurich developed a very promising ML library. In this post, I try to summarize basic properties of this library, for further detailed information please refer to the references section and especially the original research paper [3].
+Snap Machine Learning Library, new kid on the block in the world of Machine Learning libraries. This time a team of researchers from IBM Research-Zurich developed a very promising ML library. In this post, I try to summarize basic properties of this library, for further detailed information please refer to the references section and especially the original research paper [3].
 
 They briefly describe the system [2]; 
 >"The library provides high-speed training of popular machine learning models on modern CPU/GPU computing systems and can be used to train models to find new and interesting patterns, or to retrain existing models at wire-speed (as fast as the network can support) as new data becomes available. This means less compute costs for users, less energy, more agile development and a faster time to result."
